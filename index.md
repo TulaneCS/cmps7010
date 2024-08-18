@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Science
+title: Computer Science Research Seminar
 subtitle: CMPS 7010 - Fall 2024
 published: true
 ---
@@ -18,6 +18,7 @@ published: true
 * **Webpage:** [https://tulanecs.github.io/cmps7010/](https://tulanecs.github.io/cmps7010/)
 * **GitHub:** [https://github.com/TulaneCS/cmps7010](https://github.com/TulaneCS/cmps7010)
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
+* **EdStem For Questions:** [EdStem](https://edstem.org/us/courses/62194/discussion/)
 
 ## Instructor Information
 * **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
