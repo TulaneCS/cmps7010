@@ -64,7 +64,7 @@ footer-link-col: "#FFFFFF"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Nicholas Mattei
+  name: Prof. Nicholas Mattei
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -97,7 +97,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "nmattei.github.io/cmps6790/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://tulanecs.github.io/cmps7010/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
