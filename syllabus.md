@@ -5,8 +5,7 @@ subtitle:
 published: true
 ---
 
-# Data Science
-
+# Tulane CMPS 7010 Research Seminar
 ## Course Information
 * CMPS 7010 Research Seminar
 * Fall 2024 Term, Tulane University
