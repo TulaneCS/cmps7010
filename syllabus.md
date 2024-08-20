@@ -31,7 +31,7 @@ published: true
 ## Course Communication Policy
 There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
 
-* Please when at all possible use [EdStem]() to ask questions! You should have received the course invite at the start of the semester.
+* Please when at all possible use [EdStem](https://edstem.org/us/courses/62194/discussion/) to ask questions! You should have received the course invite at the start of the semester.
 * When emailing, please email all TAs and the professor of your section.  We will respond within 24 hours.  Turn around may be faster, but do not rely on it.
 * We expect the same from you: that you will check your email/Canvas every 24 hours. All major announcements will be distributed via the Announcements function of Canvas.
 * We are all available to have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
@@ -48,17 +48,14 @@ This seminar course introduces students to research methods in Computer Science 
 This is the Research Seminar course for first-year PhD students in Computer Science at Tulane. The purpose of the course is to provide early-stage PhD students some advice on how to conduct research in CS. The class will be largely discussion-based and presentation-oriented and all the students are expected to participate actively. Topics include integrity in research, how to read and present papers, problem formulation and searching for solutions, scientific/mathematical writing, where to obtain data and how to evaluate your solutions. We will discuss the advice from successful researchers in the field and expectations, as well as essential tools that can help you work more efficiently.
 
 ## Course Learning Outcomes
-
 At the conclusion of this course students will be able to:
-
-
-
-* Open, load, and manipulate data from various sources using industry standard tools.
-* Be able to use one or more data management and storage systems to load, explore, and clean data.
-* Be able to perform basic statistical analysis of the data including generating summary tables of various statistics and visualization.
-* Be able to express trends and implications present in data through the use of statistical hypothesis testing including p-values and confidence intervals.
-* Be able to use one or more machine learning algorithms for classification and regression.
-* Be able to present the results of a complete data analysis in written, visual, and presentation form.
+* Describe the types of research that is currently being undertaken at Tulane and across Computer Science broadly.
+* Create and articulate the importance of maintaining a professional presence on the internet.
+* Articulate the importance of learning styles and questioning styles as a TA. Develop short presentations on basic CS topics.
+* Read, interpret, and present research papers to other computer science graduate students.
+* Prepare a research document in LaTeX.
+* Use resources such as the library, databases, and other techniques to gather research papers.
+* Read, summarize, and reimplement a finding from the computer science literature.
 
 ## Program-Level Outcomes
 This course satisfies the first semester research requirement as part of the [Tulane CMPS PhD Program](https://sse.tulane.edu/cs/ms-and-phd-programs)
@@ -86,7 +83,16 @@ This course will consist of reading, actively discussing, and presenting researc
 Many class days we will be reading texts before hand or listening to a presentation in class. You are required to attend, in person, every lecture and engage with the material. If you do not actively participate in the discussion for that day, you will not receive points.
 
 ### TA Mini Lecture
-As part of the course you will ne 
+As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-23f-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard or a short presentation (2-3 slides) to explain your point. You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. You will be evaluated according to the following rubric.
+* **Professionalism (5 Points):** You showed up on time, prepared and ready to present. You welcomed the class, introduced yourself, and gave an overview of what you will be presenting. You kept to your time limit.
+* **Visual (5 Points):** The visual that you prepared was appropriate, clean, and aided in student understanding.
+* **Presentation (5 Points):** You spoke clearly to the class, enunciated, and maintained good eye contact. You had a plan as to what you were going to say and executed it. The content of the presentation was appropriate and you explained the required topic.
+* **Engagement (5 Points):** You paused while explaining, sought feedback from the class, and tailored your presentation to ensure the class was focused and engaged.
+* **Reflection (5 Points):** You watched the video and prepared a 1 paragraph response. The response highlighted both what you did well, and what you feel you could improve on for next time.
+
+**Additional Materials:** If you're into teaching consider a few extra materials that can really help make you a better teacher!
+  * *Tools For Teaching* Barbra Gross Davis. [Amazon Link](https://www.amazon.com/Tools-Teaching-Barbara-Gross-Davis/dp/0787965677). A classic and really great book that covers all types of teaching.
+  * *Teaching Tech Together*, Greg Wilson. [Free Online](https://teachtogether.tech/en/index.html). New to me but covers a lot about how to present technical material.
 
 ### Academic Website
 An important part of being an academic is having a properly setup academic website and profile. If someone can't find you on the web, Google Scholar, or LinkedIn, they will not know who you are (and they have to know who you are to be successful). As such, during the semester you are responsible for developing and posting an academic website in EdStem. There are many resources for this on the [Resources](./resources.md) page. Please have a look at things like [Current Tulane PhD Students](https://sse.tulane.edu/current-phd-students) for some ideas and consider using something like [al-folio](https://github.com/alshedivat/al-folio) for GitHub to set this up.
