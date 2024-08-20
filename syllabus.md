@@ -83,14 +83,14 @@ This course will consist of reading, actively discussing, and presenting researc
 Many class days we will be reading texts before hand or listening to a presentation in class. You are required to attend, in person, every lecture and engage with the material. If you do not actively participate in the discussion for that day, you will not receive points.
 
 ### TA Mini Lecture
-As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-23f-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard or a short presentation (2-3 slides) to explain your point. You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. You will be evaluated according to the following rubric.
+As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard or a short presentation (2-3 slides) to explain your point. You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. You will be evaluated according to the following rubric.
 * **Professionalism (5 Points):** You showed up on time, prepared and ready to present. You welcomed the class, introduced yourself, and gave an overview of what you will be presenting. You kept to your time limit.
 * **Visual (5 Points):** The visual that you prepared was appropriate, clean, and aided in student understanding.
 * **Presentation (5 Points):** You spoke clearly to the class, enunciated, and maintained good eye contact. You had a plan as to what you were going to say and executed it. The content of the presentation was appropriate and you explained the required topic.
 * **Engagement (5 Points):** You paused while explaining, sought feedback from the class, and tailored your presentation to ensure the class was focused and engaged.
 * **Reflection (5 Points):** You watched the video and prepared a 1 paragraph response. The response highlighted both what you did well, and what you feel you could improve on for next time.
 
-**Additional Materials:** If you're into teaching consider a few extra materials that can really help make you a better teacher!
+**Additional Materials:** Here are a few extra materials that can really help make you a better teacher!
   * *Tools For Teaching* Barbra Gross Davis. [Amazon Link](https://www.amazon.com/Tools-Teaching-Barbara-Gross-Davis/dp/0787965677). A classic and really great book that covers all types of teaching.
   * *Teaching Tech Together*, Greg Wilson. [Free Online](https://teachtogether.tech/en/index.html). New to me but covers a lot about how to present technical material.
 
