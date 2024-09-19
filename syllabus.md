@@ -39,6 +39,35 @@ There are a variety of methods you can use to get in touch with us, and we expec
 
 ---
 
+## Table of Contents
+  - [Catalog / Course Description](#catalog-/-course-description)
+  - [Course Goals, Objectives, and Overview](#course-goals,-objectives,-and-overview)
+  - [Course Learning Outcomes](#course-learning-outcomes)
+  - [Program-Level Outcomes](#program-level-outcomes)
+  - [Required and Suggested Student Resources](#required-and-suggested-student-resources)
+  - [Evaluation Procedures and Grading Criteria](#evaluation-procedures-and-grading-criteria)
+    - [Attendance and Participation](#attendance-and-participation)
+    - [TA Mini Lecture](#ta-mini-lecture)
+    - [Academic Website](#academic-website)
+    - [Paper Presentation](#paper-presentation)
+    - [Final Writeup and Presentation](#final-writeup-and-presentation)
+  - [Policies Related to Turning in Work](#policies-related-to-turning-in-work)
+    - [Late Work Policy](#late-work-policy)
+    - [Final Grade Policy](#final-grade-policy)
+  - [Schedule and Workload](#schedule-and-workload)
+  - [Attendance](#attendance)
+  - [Other Course and Tulane Policies](#other-course-and-tulane-policies)
+    - [Use of Electronic Devices](#use-of-electronic-devices)
+    - [Student Support Services](#student-support-services)
+    - [ADA / Accessibility Statement](#ada-/-accessibility-statement)
+    - [Recording of Class Sessions](#recording-of-class-sessions)
+    - [Code of Academic Conduct and Academic Integrity](#code-of-academic-conduct-and-academic-integrity)
+    - [Equity, Diversity, and Inclusion Statement (EDI)](#equity,-diversity,-and-inclusion-statement-(edi))
+    - [Religious Accommodation Policy](#religious-accommodation-policy)
+    - [Title IX](#title-ix)
+
+---
+
 ## Catalog / Course Description
 This seminar course introduces students to research methods in Computer Science and to the research conducted in the department. Students will read research papers, participate in active research projects, and practice preparing and presenting research presentations. Department faculty will present on their research in order to expose students to the research projects conducted in the department. Research methods such as literature search, experiment design, technical writing, etc. will also be covered. This course is required for all PhD students in Computer Science. The content of this course varies from semester to semester.
 
