@@ -83,7 +83,9 @@ This course will consist of reading, actively discussing, and presenting researc
 Many class days we will be reading texts before hand or listening to a presentation in class. You are required to attend, in person, every lecture and engage with the material. If you do not actively participate in the discussion for that day, you will not receive points.
 
 ### TA Mini Lecture
-As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard or a short presentation (2-3 slides) to explain your point. You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. You will be evaluated according to the following rubric.
+As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard or a short presentation (2-3 slides) to explain your point. You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. 
+
+You will be evaluated according to the following rubric.
 * **Professionalism (5 Points):** You showed up on time, prepared and ready to present. You welcomed the class, introduced yourself, and gave an overview of what you will be presenting. You kept to your time limit.
 * **Visual (5 Points):** The visual that you prepared was appropriate, clean, and aided in student understanding.
 * **Presentation (5 Points):** You spoke clearly to the class, enunciated, and maintained good eye contact. You had a plan as to what you were going to say and executed it. The content of the presentation was appropriate and you explained the required topic.
@@ -97,8 +99,12 @@ As a part of the course you will select a topic from [CMPS 1500 - Introduction t
 ### Academic Website
 An important part of being an academic is having a properly setup academic website and profile. If someone can't find you on the web, Google Scholar, or LinkedIn, they will not know who you are (and they have to know who you are to be successful). As such, during the semester you are responsible for developing and posting an academic website in EdStem. There are many resources for this on the [Resources](./resources.md) page. Please have a look at things like [Current Tulane PhD Students](https://sse.tulane.edu/current-phd-students) for some ideas and consider using something like [al-folio](https://github.com/alshedivat/al-folio) for GitHub to set this up.
 
+You will be evaluated according to the following rubric.
+* **Professionalism (12.5 Points):** The page is neat and clean, your photo is clear and nice, you use complete sentences, and the site in general looks professional.
+* **Required Elements (12.5 Points):** You have the required elements including a headshot, a list of publications, name, address, contact information, links to socials, email, and other contact information. Also links to your GitHub, Google Scholar, and other academic reputation information. You have pages for about you and research, at minimum.
+
 ### Paper Presentation
-Each student will give one 30 minute presentation for paper(s) picked in conjunction with your PhD advisor. The presentation may cover up to three papers (on the same topic) and should give an overview of the problem area, details on the contents of the paper(s), and dive into the details of at least one main technical result. The presenter should comment on the problems studied, technical contributions and limitations, and presentation styles of the paper(s). Students who do not present should read the paper(s) carefully and prepare 3---5 questions before each presentation. You must prepare a Powerpoint or PDF slides to help guide the discussion and the rest of the class (Hint: You can always email the authors for a copy of their slides). Presentations should aim to answer the following questions:
+Each student will give one 30 minute presentation (+15 mins for discussion) for papers picked in conjunction with your PhD advisor. The presentation should cover up to three papers (on the same topic) and should give an overview of the problem area, provide details on the contents of the paper(s), and dive into the details of at least one main technical result. The presenter should comment on the problems studied, technical contributions and limitations, and presentation styles of the paper(s). Students who do not present should read the paper(s) carefully and prepare 3---5 questions before each presentation. You must prepare a Powerpoint or PDF slides to help guide the discussion and the rest of the class (Hint: You can always email the authors for a copy of their slides). Presentations should aim to answer the following questions:
 1. What is the problem that the authors tried to solve?
 2. What are previous related works?
 3. What is the proposed solution(s)?
@@ -106,8 +112,34 @@ Each student will give one 30 minute presentation for paper(s) picked in conjunc
 5. What are the advantages of the proposed solution compared with prior works?
 6. In your view, are there any weakness of the proposed work?
 
+You will be evaluated according to the following rubric.
+* **Professionalism (10 Points):** Your showed up prepared, you led the class in presentation and discussion, slides were neat, tidy, and readable, and you generally put together a professional presentation.
+* **Content / Visuals (10 Points):** The slides you used were well constructed and helped other students understand the topic and the results.
+* **Presentation (10 Points):** Your presentation was rehearsed, conformed to time limits, covered the questions above, and was clear/engaging.
+* **Discussion (10 Points):** You led the discussion, answered questions clearly and professionally (or clarified that you didn't know) and you kept the conversation going for the 15 minute discussion period. You (as a non-presenter) showed up, had questions ready, and were engaged.
+* **Reflection (10 Points):** You watched the video and prepared a 1 paragraph response. The response highlighted both what you did well, and what you feel you could improve on for next time.
+
 ### Final Writeup and Presentation
-More Details TBD.
+As practice of ``doing research'' you are to take one result from the set of papers you presented in class and duplicate it! This can be (re-) implementing a baseline, running existing code on a new dataset, obtaining a similar proof in a different way, or any other verification or (small) modification of *any* result from your presented papers. If you choose the implementation path you must put all code and resources necessary to run your code in a public GitHub. If you choose to do a proof, you proof must me typeset properly, written formally, and be correct.
+
+As part of this you will prepare a short (10 min) presentation of the result that you have duplicated as well as a minimum 2 page writeup in Latex (I very strongly suggest using [Overleaf](https://www.overleaf.com) to do this, you advisor has a paid subscription), following the formatting [I've prepared a helpful example article here](https://www.overleaf.com/read/ccwvxmcmcjtn#6c3693), and which contains all relevant references, background and preliminaries, and a discussion of your research result.
+
+Your presentation will be evaluated according to the following rubric.
+* **Professionalism (10 Points):** Your showed up prepared, you led the class in presentation and discussion, slides were neat, tidy, and readable, and you generally put together a professional presentation.
+* **Content / Visuals (10 Points):** The slides you used were well constructed and helped other students understand the topic and the results.
+* **Presentation (10 Points):** Your presentation was rehearsed, conformed to time limits, covered the main points of your implementation/reproduction, and was clear/engaging.
+* **Questions (10 Points):** You were ready for questions, you asked questions of your fellow students, and were clear and thoughtful throughout the questions.
+* **Reflection (10 Points):** You watched the video and prepared a 1 paragraph response. The response highlighted both what you did well, and what you feel you could improve on for next time.
+
+Your paper will be evaluated according to the following rubric.
+* **Professionalism (10 Points):** The paper is well-organized, and well-written, contains the proper sections and proper formatting. The written English is in the active, present voice, the arguments are well organized, and the document is well presented as described.
+* **Introduction / Problem Justification (5 Points):** There is an Introduction that places the project goals within context and motivates the problem in a general way. You should clearly answer the questions: Why is this problem interesting or important? What is it about this problem that makes it non-trivial to solve? Once your project is complete, how might one use the information and insight your project provides?
+* **Related Work (10 Points):** There at least 5 papers in the references and the papers are both relevant to the investigation proposed and properly cited and contextualized in the document. References are used where necessary to back up statements and assertions.
+* **Problem Setting/ Formal Model (5 Points):** There is a clear statement of the problem as a model/algorithm/task that needs to be developed or completed. This should be formal in nature, e.g., if it is an algorithm clearly state the inputs and outputs. You should clearly state why this model is relevant to the problem and how it differs from existing results. For each decision you make in constructing your model, you must explain or justify that decision. For example, if preferences are drawn from a distribution how did you choose what distribution to use?
+* **Methodology / Reproducibility (5 Points):** Your algorithm / experiment / model etc. and the process you will use to evaluate it is clearly written, is technical in nature, and clearly describes the methods you will use to the point that someone else would be able to reproduce the methods you have used. You have clearly and exactly specified the question, method of evaluation, formal model of the problem, and the metrics of evaluation you will use.
+* **Results (10 Points):**  You have provided evidence, via proof, graph, and/or example, that you have completed a comprehensive investigation of your proposed work. The presented results should be coherent and tell a story about what you did and what you found.
+* **Conclusion / Discussion (5 Points):** There is a coherent discussion of the results of the project, the practical implications of those results, and a clear line of next questions you or someone else could work on. Do not oversell but rather clearly articulate both the accomplishments and limitations of your work.
+
 
 ## Policies Related to Turning in Work
 * All work will be turned in on [Canvas](https://tulane.instructure.com/).  All work will either be distributed via [Canvas](https://tulane.instructure.com/) or the [CMPS 7010 Webpage](https://tulanecs.github.io/cmps7010/).
