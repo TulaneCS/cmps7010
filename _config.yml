@@ -5,7 +5,7 @@
 title: CMPS 7010 - Research Seminar
 
 # Short description of your site
-description: Tulane University - Fall 2024
+description: Tulane University - Fall 2025
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -64,7 +64,7 @@ footer-link-col: "#FFFFFF"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Prof. Nicholas Mattei
+  name: Prof. Saad Hassan (Author: Prof. Nicholas Mattei)
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

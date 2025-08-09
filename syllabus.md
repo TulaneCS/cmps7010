@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fall 2024 Syllabus
+title: Fall 2025 Syllabus
 subtitle:
 published: true
 ---
@@ -8,8 +8,8 @@ published: true
 # Tulane CMPS 7010 Research Seminar
 ## Course Information
 * CMPS 7010 Research Seminar
-* Fall 2024 Term, Tulane University
-* **Lectures Times:** Tuesday and Thursday, 1400 - 1515
+* Fall 2025 Term, Tulane University
+* **Lectures Times:** Tuesday and Thursday, 1100 - 1215
 * **Room:** Gibson Hall Room 308 ([Building 1](https://admission.tulane.edu/map))
 * **Online:** All meetings will be recorded on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
 * **Prerequisite Courses:** None. Only Open to CMPS PhD Students at Tulane University
@@ -21,9 +21,9 @@ published: true
 * **EdStem For Questions:** [EdStem](https://edstem.org/us/courses/62194/discussion/)
 
 ## Instructor Information
-* **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
-* **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 305B 
-* **Office Hours:** **Mondays 1730 - 1830**, **Tuesdays 1530-1630** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Instructor:** Dr. Saad Hassan, <saadhassan@tulane.edu>
+* **Office:** Paul Hall ([Building 12](https://admission.tulane.edu/map)), Room 307 
+<!-- * **Office Hours:** **Mondays 1730 - 1830**, **Tuesdays 1530-1630** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/) -->
 
 ### Teaching Assistants
 * N/A, no assistants this academic year.

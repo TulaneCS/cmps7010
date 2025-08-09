@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMPS 7010 Fall 2024 Schedule
+title: CMPS 7010 Fall 2025 Schedule
 published: true
 ---
 
@@ -12,7 +12,7 @@ published: true
 
 ## Course Assignments and Resources
 * [All Major Assignments and Details](https://tulanecs.github.io/cmps7010/syllabus/#evaluation-procedures-and-grading-criteria)
-* [All Slides](https://drive.google.com/drive/folders/1i0gedAJVwTvNJYz-qWgjb8XuNmILPVNX?usp=sharing)
-* [Slightly Messy Notes and Extra Links](https://docs.google.com/document/d/1DuWuqhKpqej3zhAEDOt7utYoWmpBIOLnkHZgjM2uab4/edit?usp=sharing)
+<!-- * [All Slides](https://drive.google.com/drive/folders/1i0gedAJVwTvNJYz-qWgjb8XuNmILPVNX?usp=sharing) -->
+<!-- * [Slightly Messy Notes and Extra Links](https://docs.google.com/document/d/1DuWuqhKpqej3zhAEDOt7utYoWmpBIOLnkHZgjM2uab4/edit?usp=sharing) -->
 
-<iframe style="width: 100%; height: 5000px; border: none" src="https://docs.google.com/spreadsheets/d/1vKjueehAGXyGJPxBC_Dxt6_D7yOmOOMAj-T0kF13uIQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width: 100%; height: 5000px; border: none" src="https://docs.google.com/spreadsheets/d/1ls2Z80YiUdVipttn8jqJ2Q-1BKnGDSEklYXuNw0f10Q/edit?usp=sharing"></iframe>
