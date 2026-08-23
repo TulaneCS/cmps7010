@@ -8,11 +8,11 @@ published: true
 # Tulane CMPS 7010 Research Seminar
 ## Course Information
 * CMPS 7010 Research Seminar
-* Fall 2025 Term, Tulane University
-* **Lectures Times:** Tuesday and Thursday, 1100 - 1215
+* Fall 2026 Term, Tulane University
+* **Lectures Times:** Tuesday and Thursday, 9:00 - 10:45
 * **Room:** Gibson Hall Room 308 ([Building 1](https://admission.tulane.edu/map))
-* **Online:** All meetings will be recorded on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
-* **Prerequisite Courses:** None. Only Open to CMPS PhD Students at Tulane University
+* * **Online:** Zoom will be used as needed, see [Tulane Canvas](https://tulane.instructure.com/) for details.
+* **Prerequisite Courses:** None. Open only to 1st year CMPS PhD Students at Tulane University.
 
 ## Website Information
 * **Webpage:** [https://tulanecs.github.io/cmps7010/](https://tulanecs.github.io/cmps7010/)
@@ -21,21 +21,19 @@ published: true
 * **EdStem For Questions:** [EdStem](https://edstem.org/us/courses/62194/discussion/)
 
 ## Instructor Information
-* **Instructor:** Dr. Saad Hassan, <saadhassan@tulane.edu>
-* **Office:** Paul Hall ([Building 12](https://admission.tulane.edu/map)), Room 307 
+* **Instructor:** Dr. Ramgopal Mettu, <rmettu@tulane.edu>
+* **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 303E 
+* **Office Hours:** By appointment.
 <!-- * **Office Hours:** **Mondays 1730 - 1830**, **Tuesdays 1530-1630** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/) -->
 
 ### Teaching Assistants
 * N/A, no assistants this academic year.
 
 ## Course Communication Policy
-There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
+There are a variety of methods you can use to get in touch with the, and we expect to be able to get in touch with you.  A few general policies.
 
-* Please when at all possible use [EdStem](https://edstem.org/us/courses/62194/discussion/) to ask questions! You should have received the course invite at the start of the semester.
-* When emailing, please email all TAs and the professor of your section.  We will respond within 24 hours.  Turn around may be faster, but do not rely on it.
-* We expect the same from you: that you will check your email/Canvas every 24 hours. All major announcements will be distributed via the Announcements function of Canvas.
-* We are all available to have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
-* If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+* Communicate all course matters by email; I will respond within 24 hours.  Turn around may be faster, but do not rely on it.
+* I expect the same from you: that you will check your email/Canvas every 24 hours. All major announcements will be distributed via the Announcements function of Canvas.
 
 ---
 
@@ -71,10 +69,10 @@ There are a variety of methods you can use to get in touch with us, and we expec
 ## Catalog / Course Description
 This seminar course introduces students to research methods in Computer Science and to the research conducted in the department. Students will read research papers, participate in active research projects, and practice preparing and presenting research presentations. Department faculty will present on their research in order to expose students to the research projects conducted in the department. Research methods such as literature search, experiment design, technical writing, etc. will also be covered. This course is required for all PhD students in Computer Science. The content of this course varies from semester to semester.
 
-**Prerequisite:** None. Only Open to CMPS PhD Students at Tulane University
+**Prerequisite:** None. Open only to 1st year CMPS PhD Students at Tulane University
 
 ## Course Goals, Objectives, and Overview
-This is the Research Seminar course for first-year PhD students in Computer Science at Tulane. The purpose of the course is to provide early-stage PhD students some advice on how to conduct research in CS. The class will be largely discussion-based and presentation-oriented and all the students are expected to participate actively. Topics include integrity in research, how to read and present papers, problem formulation and searching for solutions, scientific/mathematical writing, where to obtain data and how to evaluate your solutions. We will discuss the advice from successful researchers in the field and expectations, as well as essential tools that can help you work more efficiently.
+This is the Research Seminar course for first-year PhD students in Computer Science at Tulane. The purpose of the course is to provide early-stage PhD students some advice on how to conduct research in CS. The class will be largely discussion-based and presentation-oriented and all the students are expected to participate actively. Topics include integrity in research, how to read and present papers, problem formulation and searching for solutions, scientific/mathematical writing, where to obtain data and how to evaluate your solutions. We will discuss the work of, and advice from, successful researchers in the field as a way to set our standard for PhD-level reserach. We will also introduce and practice using some essential tools that can help you work more efficiently.
 
 ## Course Learning Outcomes
 At the conclusion of this course students will be able to:
@@ -87,7 +85,7 @@ At the conclusion of this course students will be able to:
 * Read, summarize, and reimplement a finding from the computer science literature.
 
 ## Program-Level Outcomes
-This course satisfies the first semester research requirement as part of the [Tulane CMPS PhD Program](https://sse.tulane.edu/cs/ms-and-phd-programs)
+This course satisfies the first semester research requirement as covered in the [Tulane CMPS PhD Policies](https://tulane.app.box.com/s/ehtgoph1pnuk7aop3y6dev2wobxpaofr)
 
 ## Required and Suggested Student Resources
 There are no required resources that need to be purchased. There are a number of readings and extra information posted on the [Schedule](./schedule.md) and [Resources](./resources.md) pages.
@@ -112,7 +110,7 @@ This course will consist of reading, actively discussing, and presenting researc
 Many class days we will be reading texts before hand or listening to a presentation in class. You are required to attend, in person, every lecture and engage with the material. If you do not actively participate in the discussion for that day, you will not receive points.
 
 ### TA Mini Lecture
-As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard or a short presentation (2-3 slides) to explain your point. You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. 
+As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard along with a short presentation (3-5 slides). You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. 
 
 You will be evaluated according to the following rubric.
 * **Professionalism (5 Points):** You showed up on time, prepared and ready to present. You welcomed the class, introduced yourself, and gave an overview of what you will be presenting. You kept to your time limit.
