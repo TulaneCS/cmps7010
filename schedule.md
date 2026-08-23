@@ -15,4 +15,4 @@ published: true
 <!-- * [All Slides](https://drive.google.com/drive/folders/1i0gedAJVwTvNJYz-qWgjb8XuNmILPVNX?usp=sharing) -->
 <!-- * [Slightly Messy Notes and Extra Links](https://docs.google.com/document/d/1DuWuqhKpqej3zhAEDOt7utYoWmpBIOLnkHZgjM2uab4/edit?usp=sharing) -->
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4af6BgXHeYouwqytzuu0LZCU_lMl9yDOk3OG0HGwzi3985iRtqwGbMqREiBngXA/pubhtml?gid=155544570&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4af6BgXHeYouwqytzuu0LZCU_lMl9yDOk3OG0HGwzi3985iRtqwGbMqREiBngXA/pubhtml?widget=true&amp;headers=false"></iframe>
