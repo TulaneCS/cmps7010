@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMPS 7010 Fall 2025 Schedule
+title: CMPS 7010 Fall 2026 Schedule
 published: true
 ---
 
