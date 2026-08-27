@@ -110,7 +110,7 @@ This course will consist of reading, actively discussing, and presenting researc
 Many class days we will be reading texts before hand or listening to a presentation in class. You are required to attend, in person, every lecture and engage with the material. If you do not actively participate in the discussion for that day, you will not receive points.
 
 ### TA Mini Lecture
-As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-syllabus.pdf) and prepare a 5-8 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard along with a short presentation (3-5 slides). You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. 
+As a part of the course you will select a topic from [CMPS 1500 - Introduction to Computer Science](./1500-syllabus.pdf) and prepare a 12-15 minute presentation on the topic with the intended audience of a first year student. You must prepare a visual, either a diagram to be drawn on the whiteboard along with a short presentation (5-6 slides). You will then watch yourself in the recorded course lecture and prepare a short (1 paragraph) response to watching yourself present. 
 
 You will be evaluated according to the following rubric.
 * **Professionalism (5 Points):** You showed up on time, prepared and ready to present. You welcomed the class, introduced yourself, and gave an overview of what you will be presenting. You kept to your time limit.
