@@ -124,20 +124,21 @@ You will be evaluated according to the following rubric.
   * *Teaching Tech Together*, Greg Wilson. [Free Online](https://teachtogether.tech/en/index.html). New to me but covers a lot about how to present technical material.
 
 ### Academic Website
-An important part of being an academic is having a properly setup academic website and profile. If someone can't find you on the web, Google Scholar, or LinkedIn, they will not know who you are (and they have to know who you are to be successful). As such, during the semester you are responsible for developing and posting an academic website in EdStem. There are many resources for this on the [Resources](./resources.md) page. Please have a look at things like [Current Tulane PhD Students](https://sse.tulane.edu/current-phd-students) for some ideas and consider using something like [al-folio](https://github.com/alshedivat/al-folio) for GitHub to set this up.
+An important part of being an academic is having a properly setup academic website and profile. If someone can't find you on the web, Google Scholar, or LinkedIn, they will not know who you are (and they have to know who you are to be successful). As such, during the semester you are responsible for developing and posting an academic website using GitHub using a template such as [al-folio](https://github.com/alshedivat/al-folio). With respect to format, collect 5 example pages from researchers (students, postdocs, faculty, etc.) in your particular area and develop a format with a chosen template.
 
 You will be evaluated according to the following rubric.
 * **Professionalism (12.5 Points):** The page is neat and clean, your photo is clear and nice, you use complete sentences, and the site in general looks professional.
-* **Required Elements (12.5 Points):** You have the required elements including a headshot, a list of publications, name, address, contact information, links to socials, email, and other contact information. Also links to your GitHub, Google Scholar, and other academic reputation information. You have pages for about you and research, at minimum.
+* **Required Elements (12.5 Points):** You have the required elements including a headshot, a list of publications, name, address, contact information, links to socials, email, and other contact information. Also links to your GitHub, Google Scholar, and other academic reputation information. At a minimum, you have a landing page and an independent research page.
 
 ### Paper Presentation
-Each student will give one 25 minute presentation (+10 mins for discussion) for papers picked in conjunction with your PhD advisor. The presentation should cover up to three papers (on the same topic) and should give an overview of the problem area, provide details on the contents of the paper(s), and dive into the details of at least one main technical result. The presenter should comment on the problems studied, technical contributions and limitations, and presentation styles of the paper(s). Students who do not present should read the paper(s) carefully and prepare 3---5 questions before each presentation. You must prepare a Powerpoint or PDF slides to help guide the discussion and the rest of the class (Hint: You can always email the authors for a copy of their slides). Presentations should aim to answer the following questions:
+Each student will give one 25 minute presentation (+10 mins for discussion) cenetered around a paper chosen from [this list](classic_papers.md). The presentation should not only discuss the motivation, results and significance of the chosen paper but should also cover 2-3 related papers to provide context. Presentations should have a clear structure and give an overview of the problem area, provide details on the contents of the paper(s), and dive into the details of at least one main technical result. The presenter should comment on the problems studied, technical contributions and limitations, and presentation styles of the paper(s). Students who do not present should read the paper(s) carefully and prepare 3--5 questions before each presentation. You must prepare a Powerpoint or PDF slides to help guide the discussion and the rest of the class Presentations should aim to answer the following questions:
 1. What is the problem that the authors tried to solve?
 2. What are previous related works?
 3. What is the proposed solution(s)?
 4. How did the authors evaluate their scheme(s)?
 5. What are the advantages of the proposed solution compared with prior works?
 6. In your view, are there any weakness of the proposed work?
+7. How has the field been shaped and subsequently evolved from this work?
 
 You will be evaluated according to the following rubric.
 * **Professionalism (10 Points):** Your showed up prepared, you led the class in presentation and discussion, slides were neat, tidy, and readable, and you generally put together a professional presentation.
